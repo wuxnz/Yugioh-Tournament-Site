@@ -1,4 +1,6 @@
 /// Created by omensight @ https://stackoverflow.com/a/77070118
+library;
+
 import 'dart:convert';
 
 import 'package:drift/drift.dart';
